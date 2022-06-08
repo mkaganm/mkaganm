@@ -1,8 +1,7 @@
 ## Hi there 🚀, I'm Mustafa Kağan Meriç
 
 ## Reach out to me
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="" height="50">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
-[<img src="https://simpleicons.org/icons/gmail.svg" width="" height="50">](mustafakaganmeric@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" width="" height="32">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
 
 
 ## Tech I Use
