@@ -1,4 +1,6 @@
-## Hi there 🚀, I'm Mustafa Kağan Meriç
+
+### Hi there 🚀, I'm Mustafa Kağan Meriç
+
 
 ## Reach out to me
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" width="" height="32">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
@@ -9,7 +11,6 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&layout=compact)](https://github.com/mkaganm/github-readme-stats)
-
 
 
 <!---
