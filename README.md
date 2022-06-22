@@ -2,8 +2,12 @@
 ### Hi there 🚀, I'm Mustafa Kağan Meriç
 
 
+
 ## Reach out to me
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" width="" height="32">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" width="" height="25">](https://www.linkedin.com/in/mustafa-kağan-meriç/)  
+[<img src="https://www.freelogovectors.net/svg07/new_gmail_logo.svg" width="" height="25">](mustafakaganmeric@gmail.com)
+
+
 
 
 ## Tech I Use
