@@ -3,9 +3,8 @@
 
 I graduated from Gazi University Electrical & Electronic Engineering program. I am interested in back-end, devops and test automation. I want to improve myself in these areas. I am very confident in my ability to learn.
 
-**Strong Languages:** GO, Python
-
-I’m currently learning Java
+- :pushpin: **Strong Languages:** GO, Python
+- :pushpin: I’m currently learning Java
 
 
 # Reach out to me
