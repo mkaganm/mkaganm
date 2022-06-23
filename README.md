@@ -1,10 +1,16 @@
+<div align="center">
+  
+
+
+
 
 ## Hi there 🚀, I'm Mustafa Kağan Meriç
 
 I graduated from Gazi University Electrical & Electronic Engineering program. I am interested in back-end, devops and test automation. I want to improve myself in these areas. I am very confident in my ability to learn.
 
-- :pushpin: **Strong Languages:** GO, Python
-- :pushpin: I’m currently learning Java
+:pushpin: **Strong Languages:** GO, Python
+  
+:pushpin: I’m currently learning Java
 
 
 # Reach out to me
@@ -21,3 +27,4 @@ I graduated from Gazi University Electrical & Electronic Engineering program. I 
 mkaganm/mkaganm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
