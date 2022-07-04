@@ -21,6 +21,7 @@ I graduated from Gazi University Electrical & Electronic Engineering program. I 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&theme=tokyonight&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaganm&show_icons=true&theme=tokyonight)
 
 <!---
 mkaganm/mkaganm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
