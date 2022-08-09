@@ -1,6 +1,8 @@
 
 ## Hi there 🚀, I'm Mustafa Kağan Meriç
 
+## Software Developer in Test
+
 I graduated from Gazi University Electrical & Electronic Engineering program. I am interested in back-end, devops and test automation. I want to improve myself in these areas. I am very confident in my ability to learn.
 
 :pushpin: **Strong Languages:** GO, Python
