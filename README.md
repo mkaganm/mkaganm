@@ -3,7 +3,7 @@
 
 ## Software Developer in Test
 
-I graduated from Gazi University Electrical & Electronic Engineering program. I am interested in back-end, devops and test automation. I want to improve myself in these areas. I am very confident in my ability to learn.
+I graduated from Gazi University Electrical & Electronic Engineering program. I am interested in back-end and test automation. I want to improve myself in these areas. I am very confident in my ability to learn.
 
   
 # Tech I Use
