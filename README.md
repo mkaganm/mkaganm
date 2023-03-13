@@ -12,7 +12,7 @@ I graduated from Gazi University Electrical & Electronic Engineering program. I 
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&theme=tokyonight&langs_count=10&layout=compact)
+
 
 # Reach out to me
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" width="" height="25">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
