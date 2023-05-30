@@ -1,10 +1,11 @@
 
-## Hi there 🚀, I'm Mustafa Kağan Meriç
+<div align="center">
+  
+  ## Hi there 🚀, I'm Mustafa Kağan Meriç
 
 ## Software Developer in Test
-
-I graduated from Gazi University Electrical & Electronic Engineering program. I am interested in back-end and test automation. I want to improve myself in these areas. I am very confident in my ability to learn.
-
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="" height="25">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
+[<img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" width="" height="25">](https://medium.com/@mustafakaganmeric)
   
 # Tech I Use
 
@@ -14,16 +15,6 @@ I graduated from Gazi University Electrical & Electronic Engineering program. I 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&theme=tokyonight&langs_count=10&layout=compact)
 
-
-# Reach out to me
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" width="" height="25">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
-
-
-<!---
-mkaganm/mkaganm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaganm&show_icons=true&theme=tokyonight)
---->
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaganm&show_icons=true&theme=tokyonight)
   
 </div>
