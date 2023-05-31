@@ -18,6 +18,7 @@
   <img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width="" height="50"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/selenium/selenium.png" width="" height="50"> 
   <img src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text.png" width="" height="50"> 
   <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" width="" height="50"> 
