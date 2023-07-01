@@ -16,8 +16,8 @@ area. I am currently working with Golang and Java languages.
 
   # Tech I Use
   
-  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="" height="50"> 
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" width="" height="50"> 
   <img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="" height="50"> 
