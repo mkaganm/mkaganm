@@ -33,8 +33,5 @@ area. I am currently working with Golang and Java languages.
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&theme=tokyonight&langs_count=10&layout=compact)
-
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaganm&show_icons=true&theme=tokyonight)
   
 </div>
