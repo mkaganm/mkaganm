@@ -10,7 +10,7 @@
   [<img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" width="" height="25">](https://medium.com/@mustafakaganmeric)
 
   ## About me
-  Hi, I am Mustafa Kağan Meriç. I was born in Bursa/Turkey in 1997. I graduated from Gazi University Electrical&Electronic
+  Hi, I am Mustafa Kağan Meriç. I graduated from Gazi University Electrical&Electronic
 Engineering program. I am very confident in my ability to learn. I am interested in backend. I want to improve myself in these
 area. I am currently working with Golang and Java languages.
 
