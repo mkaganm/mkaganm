@@ -3,7 +3,7 @@
   
   ## Hi there 🚀, I'm Mustafa Kağan Meriç
 
-  ## Software Developer
+  ## Software Developer in Test
   
 
   [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="" height="25">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
