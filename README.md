@@ -3,7 +3,7 @@
   
   ## Hi there 🚀, I'm Mustafa Kağan Meriç
 
-  ![](https://tenor.com/view/gintama-gif-9535764)
+  ![](https://c.tenor.com/twN8PylgkHUAAAAC/tenor.gif)
   
   ## Backend Developer
   
