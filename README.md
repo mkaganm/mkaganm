@@ -21,7 +21,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" width="" height="50"> 
   <img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width="" height="50"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/couchbase/couchbase-original.svg" width="" height="50">   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/couchbase/couchbase-original.svg" width="" height="50">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/elasticsearch/elasticsearch-original.svg" width="" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="" height="50"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width="" height="50"> 
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png" width="" height="50">
