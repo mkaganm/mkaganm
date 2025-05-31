@@ -12,7 +12,7 @@
   [<img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" width="" height="25">](https://medium.com/@mustafakaganmeric)
 
   ## About me
-  Hi, I am Mustafa Kağan Meriç. I graduated from Gazi University Electrical & Electronic Engineering program. I started my career as a Software Developer in Test and I am continuing my career as a Backend Developer. I enjoy continuously learning about new technologies. I am actively developing with Golang and Java. I deeply enjoy developing with Golang. I am very confident in my ability to learn. I am interested in backend. I want to improve myself in these area.
+  Hi, I began my career in QA, focusing on test automation and quality assurance practices, and later transitioned into a Software Developer role. I have worked extensively on backend development, particularly with Golang and Java. I am passionate about continuous learning and staying up to date with emerging technologies. I aim to write clean, maintainable code and build robust, scalable systems.
 
   # Tech I Use
   
