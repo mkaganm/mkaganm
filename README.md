@@ -2,8 +2,6 @@
 <div align="center">
   
   ## Hi there 🚀, I'm Mustafa Kağan Meriç
-
-  ![](https://c.tenor.com/twN8PylgkHUAAAAC/tenor.gif)
   
   ## Software Developer
   
