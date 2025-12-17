@@ -1,8 +1,4 @@
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaganm&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
-
-### 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
