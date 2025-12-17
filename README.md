@@ -1,16 +1,14 @@
-
 <div align="center">
   
   ## Hi there 🚀, I'm Mustafa Kağan Meriç
   
   ## Software Developer / Quality Assurance Engineer
   
-
-  [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="" height="25">](https://www.linkedin.com/in/mustafa-kağan-meriç/)
-  [<img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" width="" height="25">](https://medium.com/@mustafakaganmeric)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-kağan-meriç/)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakaganmeric)
 
   ## About me
-  Hi, I began my career in QA, focusing on test automation and quality assurance practices, and later transitioned into a Software Developer role. I have worked extensively on backend development, particularly with Golang and Java. I am passionate about continuous learning and staying up to date with emerging technologies. I aim to write clean, maintainable code and build robust, scalable systems.
+  Hi, I began my career in QA, focusing on test automation and quality assurance practices, and later transitioned into a Software Developer role. I have worked extensively on backend development, building scalable systems with technologies like Go, Java, Spring Boot, and microservices architectures. I'm passionate about software quality, continuous learning, and creating efficient solutions.
 
   # Tech I Use
   
