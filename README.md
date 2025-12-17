@@ -1,6 +1,19 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaganm&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkaganm/mkaganm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkaganm/mkaganm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mkaganm/mkaganm/output/snake.gif" />
+</picture>
+
+</div>
+
+
 ---
 
 <div align="center">
@@ -16,19 +29,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkaganm/mkaganm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkaganm/mkaganm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mkaganm/mkaganm/output/snake.gif" />
-</picture>
-
-</div>
-
----
 
 ## 🚀 About Me
 
