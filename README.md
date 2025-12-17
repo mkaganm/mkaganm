@@ -5,7 +5,7 @@
 ### 💻 Software Developer | 🔍 Quality Assurance Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakaganmeric/)
-[![Medium](https://img.shields.io/badge/Medium-12100E? style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakaganmeric)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakaganmeric)
 
 </div>
 
@@ -24,7 +24,7 @@ const mustafa = {
 };
 ```
 
-I'm a **Software Developer** with a unique background in **Quality Assurance**. I don't just write code—I build **scalable, reliable systems** with quality built-in from day one. My journey from QA to Backend Engineering has taught me to think about edge cases, system resilience, and production-readiness before writing the first line of code. 
+I'm a **Software Developer** with a unique background in **Quality Assurance**. I don't just write code—I build **scalable, reliable systems** with quality built-in from day one.  My journey from QA to Backend Engineering has taught me to think about edge cases, system resilience, and production-readiness before writing the first line of code. 
 
 💡 **Building microservices that scale • APIs that perform • Systems that last**
 
@@ -41,7 +41,7 @@ I'm a **Software Developer** with a unique background in **Quality Assurance**. 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -51,40 +51,40 @@ I'm a **Software Developer** with a unique background in **Quality Assurance**. 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B? style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-00758F? style=for-the-badge&logo=memcached&logoColor=white)
+![Memcached](https://img.shields.io/badge/Memcached-00758F?style=for-the-badge&logo=memcached&logoColor=white)
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C? style=for-the-badge&logo=qdrant&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### Messaging & Streaming
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33? style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-6633CC?style=for-the-badge&logo=appium&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest_Assured-109D59?style=for-the-badge&logo=java&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-FF6C37?style=for-the-badge&logo=qameta&logoColor=white)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5? style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624? style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Cloud
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
@@ -92,15 +92,15 @@ I'm a **Software Developer** with a unique background in **Quality Assurance**. 
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api? username=mkaganm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=mkaganm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mkaganm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/? user=mkaganm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mkaganm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
@@ -111,16 +111,16 @@ I'm a **Software Developer** with a unique background in **Quality Assurance**. 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section can be automated with GitHub Actions to fetch your latest Medium posts -->
 📄 Check out my articles on [Medium](https://medium.com/@mustafakaganmeric)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST: END -->
 
 ---
 
 ## 💼 Professional Highlights
 
-- 🔧 **Backend Development**: Microservices architecture with Go & Java
+- 🔧 **Backend Development**:  Microservices architecture with Go & Java
 - 🧪 **Test Automation**:  Full-stack testing with Selenium, Playwright, Cypress, K6, JMeter
 - 📨 **Message-Driven Systems**: RabbitMQ & Kafka implementations
 - 🗄️ **Database Management**: SQL, NoSQL & Vector databases (Qdrant)
 - 🌐 **API Development**: RESTful, gRPC & SOAP services
-- 📊 **Monitoring**: Prometheus, Grafana & distributed tracing
+- 📊 **Monitoring**:  Prometheus, Grafana & distributed tracing
 - 🎯 **Quality Engineering**:  Building comprehensive QA frameworks and strategies
