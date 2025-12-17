@@ -9,6 +9,8 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
@@ -28,6 +30,8 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
