@@ -13,17 +13,6 @@
 
 ## 🚀 About Me
 
-```typescript
-const mustafa = {
-    role: "Software Developer & QA Engineer",
-    location: "Turkey 🇹🇷",
-    background: "QA → Test Automation → Backend Development",
-    focus: ["Distributed Systems", "Microservices", "Quality Engineering", "Cloud Infrastructure"],
-    currentlyLearning: ["Cloud Native Technologies", "System Design", "AWS Services", "Vector Databases"],
-    funFact: "I believe quality code is tested code!  🧪"
-};
-```
-
 I'm a **Software Developer** with a unique background in **Quality Assurance**. I don't just write code—I build **scalable, reliable systems** with quality built-in from day one.  My journey from QA to Backend Engineering has taught me to think about edge cases, system resilience, and production-readiness before writing the first line of code. 
 
 💡 **Building microservices that scale • APIs that perform • Systems that last**
@@ -87,6 +76,16 @@ I'm a **Software Developer** with a unique background in **Quality Assurance**. 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
+## 💼 Professional Highlights
+
+- 🔧 **Backend Development**:  Microservices architecture with Go & Java
+- 🧪 **Test Automation**:  Full-stack testing with Selenium, Playwright, Cypress, K6, JMeter
+- 📨 **Message-Driven Systems**: RabbitMQ & Kafka implementations
+- 🗄️ **Database Management**: SQL, NoSQL & Vector databases (Qdrant)
+- 🌐 **API Development**: RESTful, gRPC & SOAP services
+- 📊 **Monitoring**:  Prometheus, Grafana & distributed tracing
+- 🎯 **Quality Engineering**:  Building comprehensive QA frameworks and strategies
+---
 
 ## 📊 GitHub Stats
 
@@ -105,22 +104,3 @@ I'm a **Software Developer** with a unique background in **Quality Assurance**. 
 </div>
 
 ---
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be automated with GitHub Actions to fetch your latest Medium posts -->
-📄 Check out my articles on [Medium](https://medium.com/@mustafakaganmeric)
-<!-- BLOG-POST-LIST: END -->
-
----
-
-## 💼 Professional Highlights
-
-- 🔧 **Backend Development**:  Microservices architecture with Go & Java
-- 🧪 **Test Automation**:  Full-stack testing with Selenium, Playwright, Cypress, K6, JMeter
-- 📨 **Message-Driven Systems**: RabbitMQ & Kafka implementations
-- 🗄️ **Database Management**: SQL, NoSQL & Vector databases (Qdrant)
-- 🌐 **API Development**: RESTful, gRPC & SOAP services
-- 📊 **Monitoring**:  Prometheus, Grafana & distributed tracing
-- 🎯 **Quality Engineering**:  Building comprehensive QA frameworks and strategies
