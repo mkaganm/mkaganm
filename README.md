@@ -4,10 +4,8 @@
 
 ### 💻 Software Developer | 🔍 Quality Assurance Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-kağan-meriç/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakaganmeric/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakaganmeric)
-
-<img src="https://komarev.com/ghpvc/?username=mkaganm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -19,7 +17,7 @@
 const mustafa = {
     role: "Software Developer & QA Engineer",
     location: "Turkey 🇹🇷",
-    background: "QA → Test Automation → Backend Development",
+    background:  "QA → Test Automation → Backend Development",
     focus: ["Distributed Systems", "Microservices", "Quality Engineering", "Cloud Infrastructure"],
     currentlyLearning: ["Cloud Native Technologies", "System Design", "AWS Services", "Vector Databases"],
     funFact: "I believe quality code is tested code! 🧪"
@@ -42,10 +40,10 @@ Hi! 👋 I began my career in QA, focusing on test automation and quality assura
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7? style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-005571?style=for-the-badge&logo=soap&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-005571? style=for-the-badge&logo=soap&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
 
 ### Databases
@@ -66,7 +64,7 @@ Hi! 👋 I began my career in QA, focusing on test automation and quality assura
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-6633CC?style=for-the-badge&logo=appium&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest_Assured-109D59?style=for-the-badge&logo=java&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-109D59? style=for-the-badge&logo=java&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
@@ -77,10 +75,11 @@ Hi! 👋 I began my career in QA, focusing on test automation and quality assura
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37? style=for-the-badge&logo=postman&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -99,7 +98,7 @@ Hi! 👋 I began my career in QA, focusing on test automation and quality assura
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkaganm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/? user=mkaganm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
@@ -107,7 +106,7 @@ Hi! 👋 I began my career in QA, focusing on test automation and quality assura
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST: START -->
 <!-- This section can be automated with GitHub Actions to fetch your latest Medium posts -->
 📄 Check out my articles on [Medium](https://medium.com/@mustafakaganmeric)
 <!-- BLOG-POST-LIST:END -->
@@ -123,25 +122,3 @@ Hi! 👋 I began my career in QA, focusing on test automation and quality assura
 - 🌐 **API Development**: RESTful, gRPC & SOAP services
 - 📊 **Monitoring**: Prometheus, Grafana & distributed tracing
 - 🎯 **Quality Engineering**: Building comprehensive QA frameworks and strategies
-
----
-
-## 🤝 Let's Connect! 
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-kağan-meriç/)
-[![Medium](https://img.shields.io/badge/Medium-Follow_Me-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakaganmeric)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafakaganmeric@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ⚡ "Quality is not an act, it is a habit." - Aristotle
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-</div>
