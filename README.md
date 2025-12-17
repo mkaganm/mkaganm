@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Mustafa Kağan Meriç
+#### 👋 Hi there, I'm Mustafa Kağan Meriç
 
 ### 💻 Software Developer | 🔍 Quality Assurance Engineer
 
