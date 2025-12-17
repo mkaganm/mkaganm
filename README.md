@@ -1,3 +1,8 @@
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaganm&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+
+---
+
 <div align="center">
 
 ## 👋 Hi there, I'm Mustafa Kağan Meriç
@@ -8,11 +13,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakaganmeric)
 
 </div>
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaganm&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
-
 ---
 
 ## 🚀 About Me
