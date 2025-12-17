@@ -11,6 +11,10 @@
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaganm&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+
+---
+
 ## 🚀 About Me
 
 I'm a **Software Developer** with a unique background in **Quality Assurance**. I don't just write code—I build **scalable, reliable systems** with quality built-in from day one.  My journey from QA to Backend Engineering has taught me to think about edge cases, system resilience, and production-readiness before writing the first line of code. 
