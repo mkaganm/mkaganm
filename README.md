@@ -25,6 +25,56 @@
 
 ---
 
+## 🎨 Animasyon Seçenekleri (Test)
+
+### 1. 🐍 Snake Animation (Yılan - Commitleri Yer)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkaganm/mkaganm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkaganm/mkaganm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mkaganm/mkaganm/output/snake.gif" />
+</picture>
+
+### 2. 📈 Activity Graph (Çizgi Grafik)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaganm&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=3d59a1&hide_border=true" alt="Activity Graph" />
+
+### 3. 🔥 GitHub Streak (Seri Takibi)
+<img src="https://streak-stats.demolab.com?user=mkaganm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 4. ⌨️ Typing SVG (Yazı Animasyonu)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Developer;Quality+Assurance+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+
+### 5. 🌊 Capsule Render - Waving Header
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Mustafa%20Kağan%20Meriç&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header" />
+
+### 6. 🌊 Capsule Render - Cylinder
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,19&height=150&text=mkaganm&fontSize=40&fontColor=fff&animation=fadeIn" alt="Cylinder" />
+
+### 7. 🌊 Capsule Render - Shark
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,12,19&height=150" alt="Shark" />
+
+### 8. 🌊 Capsule Render - Slice
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,12,19&height=150&text=Software%20Developer&fontSize=30&fontColor=fff&animation=twinkling" alt="Slice" />
+
+### 9. 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=mkaganm&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+
+### 10. 📊 GitHub Stats Card
+<img src="https://github-readme-stats.vercel.app/api?username=mkaganm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+### 11. 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+### 12. 📊 Profile Summary Cards - Profile Details
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkaganm&theme=tokyonight" alt="Profile Details" />
+
+### 13. ⏰ Profile Summary Cards - Productive Time
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkaganm&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+
+### 14. 👁️ Profile Views Counter
+<img src="https://komarev.com/ghpvc/?username=mkaganm&style=for-the-badge&color=7aa2f7" alt="Profile Views" />
+
+---
+
 
 ## 🚀 About Me
 
