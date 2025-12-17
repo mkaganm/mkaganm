@@ -32,7 +32,5 @@
   
 ---
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaganm&theme=tokyonight&langs_count=10&layout=compact)
   
 </div>
