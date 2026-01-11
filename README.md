@@ -92,7 +92,6 @@
 - 🌐 **API Development**: RESTful, gRPC & SOAP services
 - 📊 **Monitoring**:  Prometheus, Grafana & distributed tracing
 - 🎯 **Quality Engineering**:  Building comprehensive QA frameworks and strategies
----
 
 <div align="center">
   
@@ -104,4 +103,3 @@
   
 </div>
 
----
